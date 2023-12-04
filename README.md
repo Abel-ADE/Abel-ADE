@@ -10,7 +10,6 @@ También encontraréis enlaces a mis redes sociales, donde podéis seguirme para
 
 📁 Ejemplos y ejercicios de las diferentes tecnologías web que estoy aprendiendo.
 💼 Proyectos personales que he desarrollado para practicar mis habilidades.
-📓 Documentación sobre las tecnologías que estoy aprendiendo.
 
 ¿Cómo puedes contribuir?
 
