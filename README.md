@@ -1,18 +1,30 @@
-### Hola a todos! 👋
+<h3 align="center">Hola a todos! 👋</h3>
+
+## Sobre mí
 
 Soy **Abel Iglesias Moure**, un estudiante de desarrollo de aplicaciones web. Estoy muy emocionado de aprender sobre este campo y compartir mi progreso con todos vosotros.
+
+## Repositorio
 
 ¿Qué encontrarás en este repositorio? 
 
 - 📁 Ejemplos y ejercicios de las diferentes tecnologías web que estoy aprendiendo.
 - 💼 Proyectos personales que he desarrollado para practicar mis habilidades.
 
-¿Cómo puedes contribuir?
+## Habilidades
 
-Si ves algún error en el código, o tienes alguna sugerencia, no dudes en abrir una issue o enviar un pull request.
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+</p>
 
-¡Gracias por visitar mi repositorio! 😊
+## Contacto
 
-Abel Iglesias Moure
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/abel" target="_blank" rel="noreferrer"> 
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+  </picture> 
+  </a>
+</p>
 
-👉 [Linkedin](https://www.linkedin.com/in/abel-iglesias-moure/)
