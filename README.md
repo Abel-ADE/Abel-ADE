@@ -11,7 +11,7 @@ Soy **Abel Iglesias Moure**, un estudiante de desarrollo de aplicaciones web. Es
 - 📁 Ejemplos y ejercicios de las diferentes tecnologías web que estoy aprendiendo.
 - 💼 Proyectos personales que he desarrollado para practicar mis habilidades.
 
-### Estadísticas
+## Estadísticas
 
 <a href="http://www.github.com/Abel-ADE"><img src="https://github-readme-stats.vercel.app/api?username=Abel-ADE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abel-ADE's GitHub stats" /></a>
 
